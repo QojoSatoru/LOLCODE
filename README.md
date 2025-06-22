@@ -2,7 +2,7 @@
 
 My LOLCODE Projects / Benim LOLCODE projelerim
 
-- deneme.lol
+- hello-world.lol
     - Konsolda `Hello, World!` yazısı çıkar.
     - It writes `Hello, World!` to the console. 
 
