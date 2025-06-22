@@ -1,11 +1,3 @@
 HAI 1.2
-I HAS A X ITZ 5
-I HAS A Y ITZ 4
-VISIBLE SUM OF X AN Y
-BOTH SAEM X AN 5, O RLY?
-    YA RLY
-      VISIBLE "X, 5"
-    NO WAI
-      VISIBLE "X, 5 değil."
-OIC
+VISIBLE "Hello, World!"
 KTHXBYE
